@@ -1,0 +1,359 @@
+COG: CYCLE OF GEARS by Mysfit Games
+
+CREATORS: 
+
+Paula/Franchesca: Sound Design
+
+Gabriel/Jess/Franchesca/Zachie: Character and item design
+
+Tamara: Concept Artist
+
+Yam/Franchesca/Zachie: Background design
+
+Finn: Programming
+
+Special Mentions: Samantha/Claudine/Michaela
+
+
+
+
+PLAYTIME: 12 HOURS
+
+LEVELS/LOCATIONS: 25
+
+City Region 1
+
+- Home
+- The City of Gearmaker (outside)
+- grand city port (outside)
+- Painter's bridge
+- City slums
+- Meekaw's Barn
+- The camp of focus (outside)
+- The camp of focus (inside)
+- The city Hall
+- The Wall edge
+- Jessi's shop (item shop)
+- Pola's Pankeks (food shop)
+- Gabe's scrapyard (upgrade/item shop)
+- Bmi's coffee (food shop)
+- Bobby Dan's bar (food shop)
+- Bobby Dan's bar secret meeting place 
+- The Journalists Guild
+- Statue of The Leader
+- Police Station
+- Factories
+- Yam's Yams
+
+City Region 2
+
+- The Machine shop (weapon shop)
+- Muddy murks
+- Abandoned workshop
+- Cemetery of the Lost
+- Electric Works
+- Radio Station
+
+
+
+TOTAL NUMBER OF CHARACTERS: 28
+
+Axel Wheeler (MC)
+Pola Camper
+Conch Leirbag
+Ari Lidel
+Finny Camper
+Bmi Marqui
+Bobby Dan Buck
+Meekaw
+The Dictator (boss 3)
+Sammy Goats
+Droid #69420 AKA "Nice"
+Secretary Ady (boss 2)
+Bobby Dan's Assistant 
+The Head Journalist Soho
+Chief of Police Vincy Bayleaf (boss 1)
+Alex Crayon
+The Informant (Zachary Rose)
+The old lady
+Gian Marcel
+Murk Monster
+Tamiel Cats
+Ube Yams
+
+(NPCS)
+
+guards
+citizens
+journalists
+droids
+torture victims
+Slum citizen
+Thief Children
+
+GAME MECHANICS:
+
+Health System:
+
+- MC has a total 50 health
+- Health can only regenerate by eating food or taking healing items
+- Health does not increase with level
+- Defense stats that reduce damage taken does increase
+
+Inventory system:
+
+- MC has a backpack which stores 25 inventory slots
+- items of the same id can be stacked up to 10 times
+- inventory can be upgraded to 35 inventory slots upon max upgrade
+- main inventory (potions, craftable materials sht, food compartment)
+- quest item slot (minimal or lesser than 25 available slots-nonupgradable)
+- equips slot (sword, armor, costume etc)
+
+
+Attack system:
+
+- Attacks will show the mc and the attacker in front of each other (side view)
+- Attacks will consist of the attack button (weapon 1 attack, weapon 2 attack, or no weapon attack)
+- Attacks happen through minigames that can either avoid getting hit, or hit a target
+- Attacking succesfully will show the enemy getting damaged, vice versa
+- Attacking also has the option to flee or to eat food in order to heal
+- Gain gold and experience after killing the enemy; fixed to 10-100 gold/xp depending on the enemy
+
+Pet system:
+
+- 5 different pets; rat, cat, dog, goose, crow
+- can only have 1 pet at a time
+- Each pet inscreases a specific character stat 
+- rat;scavenging, dog;defense, cat;stealth, goose;damage, crow;intelligence (xp gained)
+- stats increase set to a fix of 5
+
+Stat system:
+
+- Base stats are set to 1 and will gain 1 point each level
+- 5 available stats
+- strength/damage, Health/defense, Scavenging/loot, Stealth, intelligence/XP
+- Max level of stats and character is 25
+
+Item system:
+
+- Most items have descriptions to increase interactivity
+- Items will also have animations when selected 
+- items interact differently with other items
+- items can be food, weapons, sellable and purchasable, and or decorations
+ 
+Item List:
+
+(Guns):
+
+Plato's Philosophy
+
+Archimides Cannon
+
+Thunder Snipe
+
+H.G Wellington
+
+The Quartermaster
+
+(Melee): 
+
+Cane sword
+
+Thief's dagger
+
+Justice Mace
+
+Rusty Pipe
+
+Old Bonker
+
+(Other items):
+
+Clock
+
+Health Potion
+
+Mysterious soup
+
+Journal
+
+Pocket Watch
+
+Oil Lamp
+
+Lantern
+
+Gear
+
+Map
+
+Telescope
+
+Cane
+
+Batteries
+
+Keys
+
+Coins
+
+Cookie
+
+Pancake
+
+Bottles of beer
+
+Steak
+
+candles
+
+painting
+
+type writer
+
+cactus
+
+lighter
+
+stopwatch
+
+cauldron
+
+barrels 
+
+treasure chest
+
+compass
+
+wrench
+
+baskets
+
+bread
+
+Wine glass
+
+magnifying glass
+
+cans
+
+tiny glass bottles
+
+hat
+
+coat
+
+radio
+
+nixie tubes
+
+camera
+
+plasma ball
+
+syringe
+
+salmon 
+
+goggles
+
+suitcase
+
+picture frame
+
+old tickets
+
+tea pot
+
+coffee in cup
+
+wheelchair
+
+rope
+
+boots
+
+pressure guages
+
+coal
+
+oil bottle
+
+very thin looking scissors
+
+sussy stew
+
+coins
+
+music box
+
+phonograph
+
+ink and feather
+
+blow torch
+
+gas mask
+
+guard uniform
+
+tubes
+
+crystals
+
+STORYLINE:
+
+Axel lives in the great city of Gearmaker. 
+Everything is happy and nice.
+life goes on as usual.
+On a nice stroll to the bridge, he sees guards dumping a body in the river.
+Very suspicious, Axel starts to doubt.
+Axel visits Meekaw's barn and discovers a limbless body, a journalist
+Axel escapes and tries to go to the police
+Police tells him nothing is wrong
+Axel insists they go back to the barn with him and question meekaw
+The body is gone, and meekaw has an alibi
+Axel goes to the journalist headquarters, the journalists guild
+He asks about strange events
+They tell him the truth about the leader after a long conversation
+Axel isn't convinced
+He goes to report the accusations to the leader in the city hall
+The journalists guild gets burned the next day
+Axel tries to find more evidence
+meets the informant who tells him to kill the dictator
+meets the old lady who tells him to leave the city
+meets bobby dan 
+talks to bobby dan about the journalists
+Bobby dan takes axel to the secret meeting place where the head journalist Soho is
+tells him to help expose the leader
+
+(THREE CHOICES)
+
+Leave the city
+Kill the Dictator
+Expose the Dictator
+
+(Leaving the city)
+2 ways
+Axel can rent a boat from the docks and leave by boat, avoiding or fighting off the guards 
+Axel can try and scale the edge of the wall, avoiding or fighting off the guards
+Axel escapes and the game ends
+
+(Killing the dictator)
+3 ways
+Axel can manipulate the dictator and gain his trust by applying to be a body guard, then pushing the dictator off the balcony when he gives the great speech the next day
+Axel can gear up with weapons and level experience to take the dictator head on, while fighting the guards
+Axel can mess with the powergrid causing a black out, then head to the city hall and kill the dictator, no guards
+Axel takes over and the game ends
+
+(Exposing the dictator)
+Axel must gather 20 evidences from several locations
+- abandoned workshop
+- camp of focus
+- city slums
+
+Axel then goes to the radio tower, being pursued by guards. 
+If Axel succesfully makes the radio tower work (needs 20 intelligence), the guards capture axel and put him in the camp of focus, but is soon freed due to the people starting a revolt and overthrowing the dictator
+If Axel fails, he is captured by the guards, and is taken to the camp of focus, and eventually killed
+Game ends
+
